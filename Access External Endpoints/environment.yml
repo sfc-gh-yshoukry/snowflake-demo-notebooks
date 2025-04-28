@@ -1,6 +1,0 @@
-name: app_environment
-channels:
-  - snowflake
-dependencies:
-  - pytorch=2.2.0
-  - transformers=4.37.2
